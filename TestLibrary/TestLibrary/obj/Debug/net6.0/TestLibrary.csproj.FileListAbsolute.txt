@@ -1,0 +1,12 @@
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\bin\Debug\net6.0\TestLibrary.deps.json
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\bin\Debug\net6.0\TestLibrary.dll
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\bin\Debug\net6.0\TestLibrary.pdb
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.AssemblyReference.cache
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfoInputs.cache
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfo.cs
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.dll
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\refint\TestLibrary.dll
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\TestLibrary.pdb
+D:\GitHub\TestLibrary\TestLibrary\TestLibrary\obj\Debug\net6.0\ref\TestLibrary.dll
